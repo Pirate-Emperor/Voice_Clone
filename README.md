@@ -21,8 +21,8 @@ To run the project, you will need:
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/voice-clone-ai.git
-cd voice-clone
+git clone https://github.com/Pirate-Emperor/Voice_Clone.git
+cd Voice_Clone
 ```
 
 Install the required Python packages:
